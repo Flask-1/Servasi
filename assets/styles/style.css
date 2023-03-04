@@ -110,7 +110,7 @@ body {
 /* Home Page */
 
 #hero {
-    background-image: url("banner5.jpg");
+    background-image: url("../banner5.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -131,7 +131,7 @@ body {
 }
 
 #hero button {
-    background-image: url("img/button.png");
+    background-image: url("../img/button.png");
     background-color: transparent;
     color: #088178;
     border: 0;
